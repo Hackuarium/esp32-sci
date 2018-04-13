@@ -1,0 +1,25 @@
+{
+  "name": "esg32-sci",
+  "version": "0.0.1",
+  "description": "Playing with esp32",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hackuarium/esp32-sci.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Hackuarium/esp32-sci/issues"
+  },
+  "homepage": "https://github.com/Hackuarium/esp32-sci#readme",
+  "dependencies": {
+    "reveal-md": "^1.1.3"
+  }
+}
